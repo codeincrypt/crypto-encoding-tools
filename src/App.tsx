@@ -87,7 +87,7 @@ const App: React.FC = () => {
   return (
     <div className="app-container">
       <header>
-        <h1> <img className="logo" src="/logo.png" alt="logo" /> Crypto & Encoding Tools</h1>
+          <h1><img className="logo" src="/logo.png" alt="logo" /> Crypto & Encoding Tools</h1>
         <span>Base64 · AES · Hex · SHA256 · URL Encode</span>
       </header>
 
